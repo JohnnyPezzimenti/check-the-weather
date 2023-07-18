@@ -14,8 +14,8 @@ This is a sample website to search and display current weather conditions around
 
 ## Authors
 
-Jonah Lawrence
-Johnny Pezzimenti 
+* Jonah Lawrence
+* Johnny Pezzimenti 
 
 ## Acknowledgments
 
